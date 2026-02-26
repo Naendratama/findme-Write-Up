@@ -30,5 +30,8 @@ Dan yap kita menemukan sebuah string yang mencurigakan lago, sepertinya ini suda
 Mari kita gabungkan kedua strings tersebut, yang hasilnya adalah = cGljb0NURntwcm94aWVzX2FsbF90aGVfd2F5X2RmNDRjOTRjfQ==
 
 Setelah itu ayo kita decode menggunakan base64
-![ss]
+![ss](https://github.com/Naendratama/findme-Write-Up/blob/main/flag%20findme.png)
+
+Dan yap flag telah ditemukann!
+Flag : picoCTF{proxies_all_the_way_df44c94c}
 
