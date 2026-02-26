@@ -28,6 +28,7 @@ Ditemukan sebuah string yang sudah terenkripsi base64, namun sepertinya ini belu
 Dan yap kita menemukan sebuah string yang mencurigakan lago, sepertinya ini sudah terenkripsi base64 dan memiliki hubungan dengan url sebelumnya.
 
 Mari kita gabungkan kedua strings tersebut, yang hasilnya adalah = cGljb0NURntwcm94aWVzX2FsbF90aGVfd2F5X2RmNDRjOTRjfQ==
+
 Setelah itu ayo kita decode menggunakan base64
 ![ss]
 
